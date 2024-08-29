@@ -10,3 +10,6 @@ Télécharger le Dataset : Téléchargez le jeu de données à partir de ce gith
 Placer le Dataset dans le Dossier du Projet : Déplacez le fichier .csv contenant le dataset dans le même dossier que le fichier Jupyter Notebook (.ipynb).
 
 Lancer le Notebook : Ouvrez Jupyter Notebook et lancez le fichier .ipynb
+
+### Livrables
+Le projet complet est disponible sur la branche fullproject
