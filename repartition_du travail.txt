@@ -1,0 +1,7 @@
+Dans le cadre de ce projet, les tâches ont été réparties de manière claire entre les deux membres du binôme :
+
+Shmuel a assuré la récupération des données et leur traitement. Il a également réalisé l'analyse univariée et bivariée.
+
+Sarah a pris en charge l'Analyse en Composantes Principales (ACP) ainsi que les méthodes de K-means et de Classification Ascendante Hiérarchique (CAH).
+
+La rédaction du rapport a été effectuée séparément, chacun ayant rédigé les sections correspondant aux analyses qu'il a menées.
